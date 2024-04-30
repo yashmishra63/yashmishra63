@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android,Kotlin,Java**
 
-- 📫 How to reach me **yashmishra9793@gmail.com@gmail.com**
+- 📫 How to reach me **yashmishra9793@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmishra63" alt="yashmishra63" /></a> </p>
 <br>
 
